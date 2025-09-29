@@ -1,4 +1,10 @@
+
 .nav{
     background: pink;
     padding: 20px;
+}
+.content{
+    background-color: cyan;
+    height: 200px;
+    padding: 5px;
 }
